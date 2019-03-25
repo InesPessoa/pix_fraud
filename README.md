@@ -7,3 +7,5 @@ The point was to predict fraudenlent transactions with machine learning.
 
 ## Project link:   
 https://taikai.network/pixelscamp/challenges/pixels-camp/projects/cjtkjpc6h5l2u0b84tqdp594i/
+
+__Note:__ This project was reupload. 
